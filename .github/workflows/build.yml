@@ -3,7 +3,7 @@ name: Build Windows EXE
 on:
   push:
     branches: [ main ]
-  workflow_dispatch:   # 수동 실행 버튼
+  workflow_dispatch:
 
 jobs:
   build-windows:
@@ -24,10 +24,10 @@ jobs:
 
       - name: EXE 빌드
         run: |
-          pyinstaller SNU_Baseball_Manager.spec
+          pyinstaller SNU_Baseball_Manager_win.spec
 
       - name: 결과물 업로드
         uses: actions/upload-artifact@v4
         with:
           name: SNU-Baseball-Manager-Windows
-          path: dist/SNU Baseball Manager/
+          path: "dist/SNU Baseball Manager/"
