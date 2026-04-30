@@ -1,0 +1,304 @@
+{
+  "roster": {
+    "team_name": "New Team",
+    "gold": 500,
+    "lineup": [
+      {
+        "name": "이재원'18",
+        "position": "C",
+        "power": 65,
+        "accuracy": 73,
+        "discipline": 68,
+        "speed": 48,
+        "defense": 74,
+        "tier": "B",
+        "pid": "80335065"
+      },
+      {
+        "name": "러프'19",
+        "position": "1B",
+        "power": 67,
+        "accuracy": 67,
+        "discipline": 65,
+        "speed": 56,
+        "defense": 60,
+        "tier": "B",
+        "pid": "94c34ddd"
+      },
+      {
+        "name": "우즈'98",
+        "position": "2B",
+        "power": 79,
+        "accuracy": 69,
+        "discipline": 61,
+        "speed": 50,
+        "defense": 65,
+        "tier": "B",
+        "pid": "8f72ad3b"
+      },
+      {
+        "name": "김상현'09",
+        "position": "3B",
+        "power": 80,
+        "accuracy": 74,
+        "discipline": 60,
+        "speed": 63,
+        "defense": 70,
+        "tier": "B",
+        "pid": "d48302f3"
+      },
+      {
+        "name": "박진만'06",
+        "position": "SS",
+        "power": 63,
+        "accuracy": 67,
+        "discipline": 66,
+        "speed": 66,
+        "defense": 76,
+        "tier": "B",
+        "pid": "4557fc2c"
+      },
+      {
+        "name": "이진영'04",
+        "position": "LF",
+        "power": 64,
+        "accuracy": 75,
+        "discipline": 73,
+        "speed": 60,
+        "defense": 65,
+        "tier": "B",
+        "pid": "2f24d57d"
+      },
+      {
+        "name": "박건우'17",
+        "position": "CF",
+        "power": 65,
+        "accuracy": 78,
+        "discipline": 70,
+        "speed": 65,
+        "defense": 70,
+        "tier": "B",
+        "pid": "9294ed18"
+      },
+      {
+        "name": "민병헌'16",
+        "position": "RF",
+        "power": 65,
+        "accuracy": 75,
+        "discipline": 70,
+        "speed": 69,
+        "defense": 70,
+        "tier": "B",
+        "pid": "3ed2a177"
+      },
+      {
+        "name": "정의윤'15",
+        "position": "DH",
+        "power": 67,
+        "accuracy": 70,
+        "discipline": 67,
+        "speed": 57,
+        "defense": 60,
+        "tier": "B",
+        "pid": "43a0659c"
+      }
+    ],
+    "bench": [
+      {
+        "name": "정범모'07",
+        "position": "C",
+        "power": 51,
+        "accuracy": 55,
+        "discipline": 56,
+        "speed": 49,
+        "defense": 38,
+        "tier": "C",
+        "pid": "fe8f7764"
+      },
+      {
+        "name": "조동찬'18",
+        "position": "1B",
+        "power": 50,
+        "accuracy": 55,
+        "discipline": 55,
+        "speed": 50,
+        "defense": 40,
+        "tier": "C",
+        "pid": "3d81f11d"
+      },
+      {
+        "name": "오선진'17",
+        "position": "2B",
+        "power": 54,
+        "accuracy": 63,
+        "discipline": 64,
+        "speed": 55,
+        "defense": 53,
+        "tier": "C",
+        "pid": "31b4546a"
+      },
+      {
+        "name": "김웅빈'21",
+        "position": "3B",
+        "power": 55,
+        "accuracy": 55,
+        "discipline": 50,
+        "speed": 55,
+        "defense": 50,
+        "tier": "C",
+        "pid": "6b1efa2b"
+      },
+      {
+        "name": "김문호'06",
+        "position": "LF",
+        "power": 50,
+        "accuracy": 55,
+        "discipline": 55,
+        "speed": 50,
+        "defense": 40,
+        "tier": "C",
+        "pid": "59edcdc1"
+      }
+    ],
+    "sp": [
+      {
+        "name": "양현종'15",
+        "position": "SP",
+        "power": 67,
+        "accuracy": 70,
+        "discipline": 64,
+        "speed": 75,
+        "defense": 70,
+        "tier": "B",
+        "pid": "aba9dc7f"
+      },
+      {
+        "name": "후랭코프'18",
+        "position": "SP",
+        "power": 67,
+        "accuracy": 63,
+        "discipline": 62,
+        "speed": 70,
+        "defense": 70,
+        "tier": "B",
+        "pid": "7c8b6c91"
+      },
+      {
+        "name": "쿠에바스'24",
+        "position": "SP",
+        "power": 66,
+        "accuracy": 61,
+        "discipline": 67,
+        "speed": 75,
+        "defense": 70,
+        "tier": "B",
+        "pid": "525235d8"
+      },
+      {
+        "name": "이태양'17",
+        "position": "SP",
+        "power": 52,
+        "accuracy": 49,
+        "discipline": 56,
+        "speed": 73,
+        "defense": 69,
+        "tier": "C",
+        "pid": "ceec767d"
+      },
+      {
+        "name": "이의리'25",
+        "position": "SP",
+        "power": 53,
+        "accuracy": 54,
+        "discipline": 57,
+        "speed": 44,
+        "defense": 60,
+        "tier": "C",
+        "pid": "7ba0f2f4"
+      }
+    ],
+    "rp": [
+      {
+        "name": "김영우'25",
+        "position": "RP",
+        "power": 63,
+        "accuracy": 67,
+        "discipline": 63,
+        "speed": 73,
+        "defense": 71,
+        "tier": "B",
+        "pid": "c05ed955"
+      },
+      {
+        "name": "한현희'15",
+        "position": "RP",
+        "power": 67,
+        "accuracy": 60,
+        "discipline": 68,
+        "speed": 75,
+        "defense": 75,
+        "tier": "B",
+        "pid": "a22e2344"
+      },
+      {
+        "name": "조무근'17",
+        "position": "RP",
+        "power": 53,
+        "accuracy": 52,
+        "discipline": 58,
+        "speed": 60,
+        "defense": 61,
+        "tier": "C",
+        "pid": "e755fa02"
+      },
+      {
+        "name": "김대우'17",
+        "position": "RP",
+        "power": 52,
+        "accuracy": 42,
+        "discipline": 55,
+        "speed": 71,
+        "defense": 63,
+        "tier": "C",
+        "pid": "0a10ee1e"
+      },
+      {
+        "name": "최상덕'09",
+        "position": "RP",
+        "power": 53,
+        "accuracy": 53,
+        "discipline": 58,
+        "speed": 52,
+        "defense": 65,
+        "tier": "C",
+        "pid": "fceaa888"
+      },
+      {
+        "name": "권오준'03",
+        "position": "RP",
+        "power": 53,
+        "accuracy": 58,
+        "discipline": 57,
+        "speed": 57,
+        "defense": 61,
+        "tier": "C",
+        "pid": "138be295"
+      }
+    ],
+    "cp": [
+      {
+        "name": "김택연'25",
+        "position": "CP",
+        "power": 72,
+        "accuracy": 65,
+        "discipline": 68,
+        "speed": 67,
+        "defense": 67,
+        "tier": "B",
+        "pid": "5368159e"
+      }
+    ],
+    "storage": []
+  },
+  "game_count": 0
+}
